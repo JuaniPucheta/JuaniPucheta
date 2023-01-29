@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🙋‍♂️I'm 22 years old.
+- 💻I'm currently studying Systems Engineering.
+- 📚I speak english and spanish. I'm also learning german.
+- 📫 How to reach me: https://www.linkedin.com/in/juan-ignacio-pucheta-159551131/ 
