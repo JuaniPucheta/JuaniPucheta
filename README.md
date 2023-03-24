@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 - 🙋‍♂️I'm 22 years old.
 - 💻I'm currently studying Systems Engineering.
-- 📚I speak english and spanish. I'm also learning german.
-- 📫 How to reach me: https://www.linkedin.com/in/juan-ignacio-pucheta-159551131/ 
+- 📚My native language is Spanish. I am certified in English with level B2 (First). I'm also learning German.
+- 📫My LinkedIn: https://www.linkedin.com/in/juan-ignacio-pucheta/ 
+- 📸My Instagram: https://www.instagram.com/jignaciopucheta/
