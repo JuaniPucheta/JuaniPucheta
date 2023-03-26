@@ -5,7 +5,7 @@ I'm **Juan Ignacio Pucheta**. 22 years old Advanced Systems Engineering student 
 
 #### 📚 Here are some projects that it highlight during my bachelor's degree:
 - 🏢 **IT Project Management for a Multinational Company**. Together with my work group I've made: analyze the implementation of IS&IT solutions in an Organization, describe the IS&IT requirements, complete the Contingency, Recovery and Business Continuity Plan spreadsheet according to risks on assets, prepare Project Charter, WBS, RFI, Gantt Chart and a procurement contract.
-- 👪 **Simulation of people flow control systems**. with my work group we have simulated a conglomeration of people in reduced spaces, proposing structural alternatives for people to exit as quickly and safely as possible. See it here 
+- 👪 **Simulation of people flow control systems**. With my work group we have simulated a conglomeration of people in reduced spaces, proposing structural alternatives for people to exit as quickly and safely as possible. 
 
 #### 🖥️ Software development projects
 - 📈 **M/M/1 simulation system**: Programmed in Python as the main code and represented graphically (in 3D) using AnyLogic software. See it [here](https://github.com/Luchoragusa/Simulacion/tree/main/TP-3/MM1).
@@ -14,7 +14,7 @@ I'm **Juan Ignacio Pucheta**. 22 years old Advanced Systems Engineering student 
 - 🛒 **Videogames' Store**: I have worked in a group for the development fullstack of an application similar to the Steam. NodeJS, Angular and MySQL have been used. see it [here](https://github.com/Luchoragusa/MachineStore-Front).
 
 #### 📖 What I'm learning and doing by this moment...
-- German by my own and at the UTN FRRo Language Center.
+- German at the UTN FRRo Language Center, and also by my own.
 - Cloud engineering and services concepts and providers.
 - Working on the analysis, documentation, planning and prototyping of real projects (a hardware store, an agricultural laboratory, etc.).
-- Agile methodologies 
+- Agile methodologies.
