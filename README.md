@@ -5,7 +5,8 @@ I'm **Juan Ignacio Pucheta**. 23 years old Advanced Systems Engineering student 
 
 #### 📚 Here are some projects that it highlight during my bachelor's degree:
 - 🏢 **IT Project Management for a Multinational Company**. Together with my work group I've made: analyze the implementation of IS&IT solutions in an Organization, describe the IS&IT requirements, complete the Contingency, Recovery and Business Continuity Plan spreadsheet according to risks on assets, prepare Project Charter, WBS, RFI, Gantt Chart and a procurement contract.
-- 👪 **Simulation of people flow control systems**. With my work group we have simulated a conglomeration of people in reduced spaces, proposing structural alternatives for people to exit as quickly and safely as possible. 
+- 👪 **Simulation of people flow control systems**. With my work group we have simulated a conglomeration of people in reduced spaces, proposing structural alternatives for people to exit as quickly and safely as possible.
+- 🖨️ **3D Additive Manufacturing**. I have worked on the process of researching and developing an essay on a job profile and insurance to work in this field. In addition, I have printed many objects such as human body parts for a medical research paper, botany items, and simple things such as cell phone holders, toys, etc.
 
 #### 🖥️ Software development projects
 - 📈 **M/M/1 simulation system**: Programmed in Python as the main code and represented graphically (in 3D) using AnyLogic software. See it [here](https://github.com/Luchoragusa/Simulacion/tree/main/TP-3/MM1).
