@@ -1,7 +1,6 @@
 ## Hi!😁 welcome to my profile!
 
-
-I'm **Juan Ignacio Pucheta**. 23 years old Advanced Systems Engineering student (Final Project left, my last career's subject) from UTN FRRo (📍Argentina)
+I'm **Juan Ignacio Pucheta**. 24 years old. Systems Engineer from my dear UTN FRRo (📍Argentina)
 
 #### 📚 Here are some projects that it highlight during my bachelor's degree:
 - 🏢 **IT Project Management for a Multinational Company**. Together with my work group I've made: analyze the implementation of IS&IT solutions in an Organization, describe the IS&IT requirements, complete the Contingency, Recovery and Business Continuity Plan spreadsheet according to risks on assets, prepare Project Charter, WBS, RFI, Gantt Chart and a procurement contract.
